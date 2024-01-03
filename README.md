@@ -2,9 +2,11 @@ Welcome to my data analyst portfolio. I am a recent MBA graduate with a concentr
 
 Projects
 1. Analyzing Loan Data
+
  This project is made up of two files Part I and Part II. In these files i utilize python to clean, arrange, and vizualize data.
 
 2. Coffee Chain Data 
+
 For this project I utilized a sample set of data from a coffee chain. This data was cleaned using excel and then vizualized in tableau. Include in that file is a dynamic dashboards and a storyboard. 
 
 Contact Information
