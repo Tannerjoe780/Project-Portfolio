@@ -9,6 +9,10 @@ Projects
 
 For this project I utilized a sample set of data from a coffee chain. This data was cleaned using excel and then vizualized in tableau. Include in that file is a dynamic dashboards and a storyboard. 
 
+3. Twitter Data
+
+In this porject I created a twitter dev profile. I then used html and tweepy to scape the website data. I then used this data to provide analytics based on tweets.
+
 Contact Information
 Feel free to reach out to me via email at JoeTanner780gmail.com for any inquiries or collaboration opportunities.
 
